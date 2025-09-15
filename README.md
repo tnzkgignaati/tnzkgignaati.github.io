@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -89,12 +90,13 @@
 
     <div class="image-container">
         <!-- The image to display -->
-        <img id="main-image" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-qkmJQuJ2WnvoIKMr2UJwIJkZ/user-aNsDaZ8exL3uSlpKcTv3KBRo/img-gq0VnifBC5z8okVRejuXi3HY.png?st=2025-09-12T09%3A24%3A27Z&se=2025-09-12T11%3A24%3A27Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8c7ba6b3-5a55-4cb2-a31e-3fe3f598c469&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-12T00%3A38%3A54Z&ske=2025-09-13T00%3A38%3A54Z&sks=b&skv=2024-08-04&sig=MBoVJ92ezHVtUmrZ0gMHh6vCnytYXBCwLR9t4O%2BSLgU%3D" alt="Dynamic Image">
+        <img id="main-image" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-qkmJQuJ2WnvoIKMr2UJwIJkZ/user-aNsDaZ8exL3uSlpKcTv3KBRo/img-tW0ytqwBpXm73zp8QarZ3NEE.png?st=2025-09-15T03%3A07%3A13Z&se=2025-09-15T05%3A07%3A13Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=fbf4b681-538a-442a-8e58-f3b99f10cd54&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-15T04%3A07%3A13Z&ske=2025-09-16T04%3A07%3A13Z&sks=b&skv=2024-08-04&sig=KZqFxQSOMojYSORKx1uIdxWh1oBX3161LlPOFRSTxQI%3D" alt="Dynamic Image">
         
         <!-- The overlaying caption -->
         <div class="image-caption">
             <div id="caption-title" class="caption-title">cat</div>
-            <div id="caption-text" class="caption-text">cat with a goddamned hat</div>
+            <div id="caption-text" class="caption-text">cat with a goddamn hat
+</div>
         </div>
     </div>
 
